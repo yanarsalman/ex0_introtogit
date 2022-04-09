@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: neon green
+Favorite food: shawarma
+Favorite musician/band: imagine dragons
+Favorite movie: indiana jones
+Requested grade in the course: 80
+ 
